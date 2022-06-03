@@ -1,0 +1,7 @@
+1. Prompt user for height
+2. If the height is an Integer and not less than 1 or greater than 8, go-ahead
+3. Iterate the main loop by height entered by a user and then subtract it by 1
+4. Inside the main loop use 3 nested loops
+   1. Iterate spaces loop where spaces is height minus 1
+   2. Initialise hashes variable equal to the height and Iterate loop until height equal or greater then hashes
+   3. Print 2 space and Repeat another hashes loop same as above and then print a new line
