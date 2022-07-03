@@ -44,6 +44,10 @@ Visit the course's [website](https://cs50.harvard.edu/x/2020/) to watch videos, 
 - [Pset 7 Movies](https://github.com/priyanktejani/cs50x-introduction-to-computer-science/tree/master/week%207/movies)
 - [Pset 7 Houses](https://github.com/priyanktejani/cs50x-introduction-to-computer-science/tree/master/week%207/houses)
 
+### Track Android
+- [Pokedex](https://github.com/priyanktejani/android-cs50x/tree/master/pokedex)
+- [Fiftygram](https://github.com/priyanktejani/android-cs50x/tree/master/fiftygram)
+- [Notes](https://github.com/priyanktejani/android-cs50x/tree/master/notes)
 
 ## Academic Honesty
 Please do consider checking the [Academic honesty policy](https://cs50.harvard.edu/x/2020/honesty/) of the course.
